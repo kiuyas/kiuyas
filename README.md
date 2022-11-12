@@ -2,6 +2,8 @@
 
 - 🚮 I'm just throwing trash. :-)
 - 🤔 I’m looking for some amazing idea.
+- Languages
+  - C#, Java(Android), Node.js, PHP, etc. 
 
 <!--
 **kiuyas/kiuyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
